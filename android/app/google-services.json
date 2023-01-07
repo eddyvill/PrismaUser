@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "394456906491",
+    "firebase_url": "https://prisma-express-app-default-rtdb.firebaseio.com",
+    "project_id": "prisma-express-app",
+    "storage_bucket": "prisma-express-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394456906491:android:cd250fd0a1e5ccb156ce5e",
+        "android_client_info": {
+          "package_name": "net.prismaexpress.prisma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394456906491-b0aveisodg7rcvt65ok0au146c1to3uk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.prismaexpress.prisma",
+            "certificate_hash": "e8f75c17139ca2e22c628dd6f56d1be4d3c460fb"
+          }
+        },
+        {
+          "client_id": "394456906491-akelqkck1f78ss740obntml5q9fpq01u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0wLFTe3VmdwigTPo_WcmO2Xic8vfwO8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394456906491-702n7cvafq61a6q3tdt37dm86sfj50r6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "394456906491-ed6h7mc3uel50gtoteh3bspk0jt2sqrd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.prismaexpress.prisma"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

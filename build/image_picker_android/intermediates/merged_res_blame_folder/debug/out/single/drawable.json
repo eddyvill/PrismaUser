@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/admin/Development/Projets/flutterApps/PrismaUser/build/image_picker_android/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-2/files-2.1/5dccdbdcf097c152140f6b1f14803af7/core-1.8.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/admin/Development/Projets/flutterApps/PrismaUser/build/image_picker_android/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-2/files-2.1/5dccdbdcf097c152140f6b1f14803af7/core-1.8.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/admin/Development/Projets/flutterApps/PrismaUser/build/image_picker_android/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-2/files-2.1/5dccdbdcf097c152140f6b1f14803af7/core-1.8.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/admin/Development/Projets/flutterApps/PrismaUser/build/image_picker_android/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/admin/.gradle/caches/transforms-2/files-2.1/5dccdbdcf097c152140f6b1f14803af7/core-1.8.0/res/drawable/notification_tile_bg.xml"
+    }
+]

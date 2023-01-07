@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+net/prismaexpress/prisma/BuildConfig.java
+ net.prismaexpress.prisma.BuildConfig
