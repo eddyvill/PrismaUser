@@ -1,2 +1,0 @@
-com/alexmiller/map_launcher/BuildConfig.java
- com.alexmiller.map_launcher.BuildConfig
