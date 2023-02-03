@@ -15,11 +15,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "394456906491-b0aveisodg7rcvt65ok0au146c1to3uk.apps.googleusercontent.com",
+          "client_id": "394456906491-9rpfna16h66ut2co2k5pnk11bie2ipnc.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "net.prismaexpress.prisma",
-            "certificate_hash": "e8f75c17139ca2e22c628dd6f56d1be4d3c460fb"
+            "certificate_hash": "aa64669094732c1e7faf9771a69c2de92bba98db"
           }
         },
         {
